@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-asset-base",
   "version": "0.0.1",
-  "description": "Base plugin for NodeBB post dynamic assets (e.g. YouTube videos, etc)",
+  "description": "Asset Base Manager for NodeBB (e.g. YouTube videos, etc)",
   "main": "index.js",
   "repository": {
     "type": "git",

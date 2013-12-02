@@ -1,7 +1,7 @@
 {
     "id": "nodebb-plugin-asset-base",
     "name": "Dynamic Post Assets - Base",
-    "description": "Base plugin for NodeBB post dynamic assets (e.g. YouTube videos, etc)",
+    "description": "Asset Base Manager for NodeBB (e.g. YouTube videos, etc)",
     "url": "https://github.com/julianlam/nodebb-plugin-asset-base",
     "library": "./index.js",
     "staticDir": "./public",
